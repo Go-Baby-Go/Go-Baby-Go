@@ -1,7 +1,6 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// TITLE: GoBabyGo Car Controller - Simple 4 Direction
-// Written by FIRST Team 1939 (The Kuhnigits)
-// Modified by David Long
+// TITLE:   GoBabyGo Car Controller - Simple 4 Direction
+// AUTHOR:  David Long
 //
 // PURPOSE: This version of the car controller limits the vehicle to one action at a time, either forward, reverse, turning left, or turning right.
 //          The vehicle must come to a complete stop before any change in direction is allowed. This creates a small input delay, but prevents motors
